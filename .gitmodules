@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "GenAI"]
+	path = GenAI
+	url = https://github.com/cran/GenAI
 [submodule "PaLMr"]
 	path = PaLMr
 	url = https://github.com/lygitdata/palmr
